@@ -27,7 +27,7 @@ Perfect for:
 
 ```bash
 # Clone it
-git clone https://github.com/yourusername/youtube-growth-tracker.git
+git clone https://github.com/sameer-labs/YT-Growth-Tracker.git
 cd youtube-growth-tracker
 
 # Install deps (just requests, that's it)
